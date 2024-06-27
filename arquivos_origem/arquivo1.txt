@@ -1,0 +1,5 @@
+002028arquivo01     2024062520240626                       
+0120280001 teste com registro 1 00000000                   
+0220280001 teste com registro 2 00000000                   
+0320280001 teste com registro 3 00000000                   
+002028arquivo01     202406252024062600003                  

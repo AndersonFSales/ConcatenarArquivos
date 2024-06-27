@@ -1,0 +1,28 @@
+{
+  "pasta_origem": "C:\\Users\\baixi\\Documents\\Projetos\\Consolidar arquivos\\arquivos_origem", 
+  "pasta_destino": "C:\\Users\\baixi\\Documents\\Projetos\\Consolidar arquivos\\arquivos_destino",  
+  "nome_arquivo_final": "ARQUIVO_FINAL.txt",  
+  "arquivos": [
+    {
+      "Nome_Arq": "arquivo1",
+      "validardata": "sim"
+    },
+    {
+      "Nome_Arq": "arquivo2",
+      "validardata": "não"
+    },
+    {
+      "Nome_Arq": "arquivo3",
+      "validardata": "não"
+    }
+  ],
+  "header": "00Header do Arquivo Final DATA", 
+  "header_substituicoes": {  
+    "DATA": "2024-06-26"  
+  },
+  "trailer": "99Trailer do Arquivo Final TOTAL_LINHAS", 
+  "trailer_substituicoes": {  
+    "TOTAL_LINHAS": "100" 
+  },
+  "extensao_arquivo": ".txt" 
+}

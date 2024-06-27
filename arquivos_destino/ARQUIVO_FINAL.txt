@@ -1,0 +1,11 @@
+0000Header do Arquivo Final DATA
+0120280001 teste com registro 1 00000000                   
+0220280001 teste com registro 2 00000000                   
+0320280001 teste com registro 3 00000000                   
+0520280001 teste com registro 5 00000000                   
+0420280001 teste com registro 4 00000000                   
+0620280001 teste com registro 6 00000000                   
+0720280001 teste com registro 7 00000000                   
+0920280001 teste com registro 9 00000000                   
+0820280001 teste com registro 8 00000000                   
+9999Trailer do Arquivo Final TOTAL_LINHAS
